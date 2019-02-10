@@ -3,6 +3,9 @@ A personal collection of notes on various academic papers from various subfields
 
 ### Deep Domain Adaptation
 
+* Unsupervised Domain Adaptation by Backpropagation: [paper](https://arxiv.org/abs/1811.07456)
+* Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach: [code](https://github.com/jihanyang/AFN)[paper](https://arxiv.org/abs/1811.07456)
+* 
 
 ### Deep Optimization
 
