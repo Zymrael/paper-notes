@@ -13,4 +13,7 @@ A personal collection of notes on various academic papers from various subfields
 ### Reinforcement Learning
 
 
+
+### Port-Hamiltonian systems and Learning
+
 ### Heuristics and hyperparameter design
