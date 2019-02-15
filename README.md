@@ -1,6 +1,10 @@
 # paper-notes
 A personal collection of notes on various academic papers from various subfields of AI
 
+### Deep Learning
+
+* Learning Internal Representations by Backpropagation [paper](https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf)
+
 ### Deep Domain Adaptation
 
 * Unsupervised Domain Adaptation by Backpropagation: [paper](https://arxiv.org/abs/1811.07456)
