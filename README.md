@@ -13,7 +13,7 @@ A personal collection of papers (with occasional notes) from various subfields o
 
 ### Interpretable models
 
-* Interpretable CNNs [paper](https://arxiv.org/pdf/1901.02413.pdf)
+* Interpretable CNNs [paper](https://arxiv.org/pdf/1901.02413.pdf), [notes]()
 
 ### Deep Optimization
 
