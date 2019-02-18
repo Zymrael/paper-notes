@@ -1,5 +1,5 @@
 # paper-notes
-A personal collection of notes on various academic papers from various subfields of AI
+A personal collection of papers (with occasional notes) from various subfields of AI.
 
 ### Deep Learning
 
@@ -10,6 +10,10 @@ A personal collection of notes on various academic papers from various subfields
 * Unsupervised Domain Adaptation by Backpropagation: [paper](https://arxiv.org/abs/1811.07456)
 * Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach: [code (PyTorch)](https://github.com/jihanyang/AFN), [paper](https://arxiv.org/abs/1811.07456)
 * 
+
+### Interpretable models
+
+* Interpretable CNNs [paper](https://arxiv.org/pdf/1901.02413.pdf)
 
 ### Deep Optimization
 
