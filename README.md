@@ -24,8 +24,8 @@ A personal collection of papers (with occasional notes) from various subfields o
 
 ### Port-Hamiltonian systems and Learning
 
-* Gradient and Hamiltonian Dynamics Applied to Learning in Neural Networks [paper](https://papers.nips.cc/paper/1033-gradient-and hamiltonian-dynamics-applied-to-learning-in-neural-networks.pdf)
+* Gradient and Hamiltonian Dynamics Applied to Learning in Neural Networks [paper](https://papers.nips.cc/paper/1033-gradient-and-hamiltonian-dynamics-applied-to-learning-in-neural-networks.pdf)
 
-* An Optimal Control Approach to Deep Learning and Applications to Discrete-Weight Neural Networks [paper] (https://arxiv.org/abs/1803.01299)
+* An Optimal Control Approach to Deep Learning and Applications to Discrete-Weight Neural Networks [paper] (https://arxiv.org/abs/1803.01299.pdf)
 
 ### Heuristics and hyperparameter design
